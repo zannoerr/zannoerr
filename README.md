@@ -1,75 +1,86 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Hi%20There!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Vibe%20Coder%20%7C%20Building%20%26%20Connecting&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2d0a4e,100:8b0000&height=220&section=header&text=ZANNOERR&fontSize=70&fontColor=c9a3ff&animation=fadeIn&fontAlignY=35&desc=A%20Wanderer%20Between%20Code%20and%20Chaos&descAlignY=55&descSize=18&fontFamily=serif" width="100%"/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=const+developer+%3D+%7B;+name%3A+%22Nama+Kamu%22%2C;+role%3A+%22Vibe+Coder%22%2C;+status%3A+%22open+to+connect%22+%7D%3B" alt="Typing SVG" />
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&weight=500&size=26&duration=3500&pause=1200&color=B266FF&center=true&vCenter=true&width=650&lines=%22Not+all+who+wander+are+lost...%22;%22I+am+the+dragon+in+the+terminal%22;%22Code+by+day%2C+conjure+by+night%22;welcome+to+my+lair+%F0%9F%A6%87" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME-GITHUB-KAMU&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=zannoerr&style=for-the-badge&color=8b0000&label=SOULS+WHO+VISITED&labelColor=0a0a0a" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/USERNAME-GITHUB-KAMU?style=for-the-badge&color=6366f1&labelColor=0f172a" />
+<img src="https://img.shields.io/github/followers/zannoerr?style=for-the-badge&color=8b0000&labelColor=0a0a0a&label=FOLLOWERS" />
 
 </div>
 
 <br/>
 
-## ⚡ Tentang Saya
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-```js
-const me = {
-  location: "Indonesia 🇮🇩",
-  currentFocus: "belajar & ngoding santai (vibe coding)",
-  lookingToConnect: "developer, builder, dan siapa aja yang mau ngobrol project",
-  funFact: "lebih suka coding sambil dengerin lo-fi 🎧",
-};
+<br/>
+
+## 🕯️ &nbsp;The Grimoire (About Me)
+
+```yaml
+name: Zannoerr
+alignment: Chaotic Good, mostly
+class: Full-Stack Necromancer 🧙‍♂️
+current_quest: summoning bugs into existence, then banishing them
+weapon_of_choice: terminal + dark roast coffee ☕
+guild: open source wanderers
+motto: "ship it, then pray to the console gods"
 ```
 
-Saya suka ngulik project baru, eksplor teknologi, dan yang paling penting — **networking**. Kalau kamu punya ide project, pertanyaan, atau cuma mau say hi, gaskeun aja DM/connect 👇
+Saya bukan sekadar developer — saya arsitek dunia digital yang lahir dari bayangan `//TODO` dan bangkit tiap malam demi satu `git push` lagi. Kalau kamu suka ngobrolin project, kolaborasi, atau sekadar bertukar mantra kode, **gerbang ini selalu terbuka**.
 
 <br/>
 
-## 🛠️ Tech Stack
+## ⚔️ &nbsp;Arsenal & Artefak
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/-Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
-![React](https://img.shields.io/badge/-React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=339933)
-![Git](https://img.shields.io/badge/-Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/-Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
-![VS Code](https://img.shields.io/badge/-VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=B266FF)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=B266FF)
+![Python](https://img.shields.io/badge/-Python-0a0a0a?style=for-the-badge&logo=python&logoColor=B266FF)
+![React](https://img.shields.io/badge/-React-0a0a0a?style=for-the-badge&logo=react&logoColor=B266FF)
+![Node.js](https://img.shields.io/badge/-Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=B266FF)
+![Git](https://img.shields.io/badge/-Git-0a0a0a?style=for-the-badge&logo=git&logoColor=B266FF)
+![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=B266FF)
+![Linux](https://img.shields.io/badge/-Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=B266FF)
 
-> 📝 *Ganti/tambah badge sesuai stack asli kamu → cari nama tech di [shields.io](https://shields.io) atau [simple-icons](https://simpleicons.org).*
+> *Ganti badge di atas sesuai senjata asli kamu ya — tinggal cari nama tech-nya di shields.io.*
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## 🩸 &nbsp;Chronicle of Commits
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME-GITHUB-KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818CF8&icon_color=6366f1&text_color=c9d1d9" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=USERNAME-GITHUB-KAMU&theme=tokyonight&hide_border=true&background=0f172a&stroke=818CF8&ring=6366f1&fire=6366f1" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zannoerr&show_icons=true&theme=dracula&hide_border=true&bg_color=0a0a0a&title_color=B266FF&icon_color=8b0000&text_color=c9c9c9&ring_color=8b0000" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=zannoerr&theme=dracula&hide_border=true&background=0a0a0a&stroke=8b0000&ring=B266FF&fire=8b0000&currStreakLabel=B266FF" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zannoerr&layout=compact&theme=dracula&hide_border=true&bg_color=0a0a0a&title_color=B266FF&text_color=c9c9c9" width="45%"/>
 </div>
 
 <br/>
 
-## 🌐 Let's Connect
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<br/>
+
+## 🦇 &nbsp;Summon Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/USERNAME-LINKEDIN-KAMU)
-[![Instagram](https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/USERNAME-IG-KAMU)
-[![Twitter/X](https://img.shields.io/badge/X-0f172a?style=for-the-badge&logo=x&logoColor=white)](https://x.com/USERNAME-X-KAMU)
-[![Gmail](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:emailkamu@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/USERID-DISCORD-KAMU)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=B266FF)](https://linkedin.com/in/zannoerr)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=B266FF)](https://instagram.com/zannoerr)
+[![X](https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=B266FF)](https://x.com/zannoerr)
+[![Gmail](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=B266FF)](mailto:zannoerr@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=B266FF)](https://discord.com/users/zannoerr)
 
 </div>
 
@@ -77,8 +88,8 @@ Saya suka ngulik project baru, eksplor teknologi, dan yang paling penting — **
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:2d0a4e,100:000000&height=120&section=footer"/>
 
-*"Ngoding santai, hasil maksimal."* ✨
+*"Dalam kegelapan kode, aku menemukan cahaya logika."* 🕷️
 
 </div>
