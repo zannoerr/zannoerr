@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%"/>
+<img src="./Banner.svg" width="100%"/>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&weight=500&size=26&duration=3500&pause=1200&color=B266FF&center=true&vCenter=true&width=650&lines=%22Not+all+who+wander+are+lost...%22;%22I+am+the+dragon+in+the+terminal%22;%22Code+by+day%2C+conjure+by+night%22;welcome+to+my+lair+%F0%9F%A6%87" alt="Typing SVG" />
