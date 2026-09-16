@@ -68,6 +68,18 @@ Saya bukan sekadar developer — saya arsitek dunia digital yang lahir dari baya
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zannoerr&theme=react-dark&bg_color=0a0a0a&color=B266FF&line=8b0000&point=e8dcff&area=true&area_color=8b0000&hide_border=true&title_color=B266FF" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zannoerr&theme=dracula&no-frame=true&no-bg=true&row=1&margin-w=12&column=7" width="95%"/>
+</div>
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <br/>
@@ -76,11 +88,50 @@ Saya bukan sekadar developer — saya arsitek dunia digital yang lahir dari baya
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=B266FF)](https://linkedin.com/in/zannoerr)
-[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=B266FF)](https://instagram.com/zannoerr)
-[![X](https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=B266FF)](https://x.com/zannoerr)
-[![Gmail](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=B266FF)](mailto:zannoerr@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=B266FF)](https://discord.com/users/zannoerr)
+*"Whisper your message into the void — I always answer the call."*
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://linkedin.com/in/zannoerr">
+        <img src="https://img.shields.io/badge/-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=B266FF" width="60"/>
+        <br/><sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://instagram.com/zannoerr">
+        <img src="https://img.shields.io/badge/-0a0a0a?style=for-the-badge&logo=instagram&logoColor=B266FF" width="60"/>
+        <br/><sub><b>Instagram</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://x.com/zannoerr">
+        <img src="https://img.shields.io/badge/-0a0a0a?style=for-the-badge&logo=x&logoColor=B266FF" width="60"/>
+        <br/><sub><b>X</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="mailto:zannoerr@gmail.com">
+        <img src="https://img.shields.io/badge/-0a0a0a?style=for-the-badge&logo=gmail&logoColor=B266FF" width="60"/>
+        <br/><sub><b>Email</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://discord.com/users/zannoerr">
+        <img src="https://img.shields.io/badge/-0a0a0a?style=for-the-badge&logo=discord&logoColor=B266FF" width="60"/>
+        <br/><sub><b>Discord</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+![Collab](https://img.shields.io/badge/OPEN_TO-COLLAB-8b0000?style=flat-square&labelColor=0a0a0a)
+![Freelance](https://img.shields.io/badge/OPEN_TO-FREELANCE-8b0000?style=flat-square&labelColor=0a0a0a)
+![Mentorship](https://img.shields.io/badge/OPEN_TO-MENTORSHIP-8b0000?style=flat-square&labelColor=0a0a0a)
 
 </div>
 
