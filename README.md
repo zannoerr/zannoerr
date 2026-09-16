@@ -49,7 +49,7 @@ Saya bukan sekadar developer — saya arsitek dunia digital yang lahir dari baya
 ![Docker](https://img.shields.io/badge/-Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=B266FF)
 ![Linux](https://img.shields.io/badge/-Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=B266FF)
 
-> *Ganti badge di atas sesuai senjata asli kamu ya — tinggal cari nama tech-nya di shields.io.*
+
 
 </div>
 
@@ -101,7 +101,7 @@ Saya bukan sekadar developer — saya arsitek dunia digital yang lahir dari baya
       </a>
     </td>
     <td align="center" width="120">
-      <a href="https://instagram.com/zannoerr">
+      <a href="https://www.instagram.com/beezcoft?stkn=Njg2bG55dmpiODRw">
         <img src="https://img.shields.io/badge/-0a0a0a?style=for-the-badge&logo=instagram&logoColor=B266FF" width="60"/>
         <br/><sub><b>Instagram</b></sub>
       </a>
