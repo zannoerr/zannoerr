@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Zannoerr Banner" width="100%"/>
+<img src="banner (2).svg" alt="Zannoerr Banner" width="100%"/>
 
 <!-- Kalau mau banner otomatis bergaya wave neon, ganti/tambahkan baris di atas dengan ini: -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2ec4,100:c724ff&height=250&section=header&text=FAUZAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20|%20Linux%20User%20|%20Vibe%20Coder&descAlignY=58&descSize=20" width="100%"/> -->
@@ -27,7 +27,7 @@ zannoerr@network:~$ whoami
 
 <div align="center">
 
-| 🌐 Fokus | 💬 Detail |
+| Fokus | Detail |
 |:---:|:---|
 | Networking | Routing, Switching, Troubleshooting, Wireshark |
 | Linux | Server administration, shell scripting, self-hosting |
@@ -70,12 +70,17 @@ zannoerr@network:~$ whoami
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zannoerr&show_icons=true&theme=radical&hide_border=true&bg_color=0a001a&title_color=ff2ec4&icon_color=c724ff&text_color=ff9be8" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zannoerr&theme=radical&hide_border=true&background=0a001a&ring=ff2ec4&fire=c724ff&currStreakLabel=ff9be8" width="48%"/>
+
+<img src="https://github-readme-stats-eta.vercel.app/api?username=zannoerr&show_icons=true&theme=radical&hide_border=true&bg_color=0a001a&title_color=ff2ec4&icon_color=c724ff&text_color=ff9be8" width="48%"/>
+
+<img src="https://github-readme-stats-eta.vercel.app/api/streak?username=zannoerr&theme=radical&hide_border=true&background=0a001a&ring=ff2ec4&fire=c724ff&currStreakLabel=ff9be8" width="48%"/>
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zannoerr&layout=compact&theme=radical&hide_border=true&bg_color=0a001a&title_color=ff2ec4&text_color=ff9be8" width="45%"/>
+
+<img src="https://github-readme-stats-eta.vercel.app/api/top-langs/?username=zannoerr&layout=compact&theme=radical&hide_border=true&bg_color=0a001a&title_color=ff2ec4&text_color=ff9be8" width="45%"/>
+
 </div>
 
 
