@@ -5,7 +5,7 @@
 <!-- Kalau mau banner otomatis bergaya wave neon, ganti/tambahkan baris di atas dengan ini: -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2ec4,100:c724ff&height=250&section=header&text=FAUZAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20|%20Linux%20User%20|%20Vibe%20Coder&descAlignY=58&descSize=20" width="100%"/> -->
 
-<a href="https://github.com/fauzan">
+<a href="https://github.com/zannoerr">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF2EC4&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Fauzan+%F0%9F%91%8B;Network+Engineer+%F0%9F%8C%90;Linux+Enthusiast+%F0%9F%90%A7;Vibe+Coder+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
@@ -38,7 +38,7 @@ fauzan@network:~$ whoami
 
 <br>
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -68,7 +68,7 @@ fauzan@network:~$ whoami
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=fauzan&show_icons=true&theme=radical&hide_border=true&bg_color=0a001a&title_color=ff2ec4&icon_color=c724ff&text_color=ff9be8" width="48%"/>
