@@ -21,24 +21,23 @@
 ```bash
 zannoerr@network:~$ whoami
 > Zannoerr — Network Enthusiast & Linux Tinkerer
-> Suka utak-atik konfigurasi jaringan & server Linux
-> Ngoding santai mengikuti vibe (vibe coder 🌸)
-> Selalu penasaran gimana packet "ngobrol" dari satu device ke device lain
+> konfigurasi jaringan & server Linux
+> vibe coder
 ```
 
 <div align="center">
 
 | 🌐 Fokus | 💬 Detail |
 |:---:|:---|
-| 🖧 Networking | Routing, Switching, Troubleshooting, Wireshark |
-| 🐧 Linux | Server administration, shell scripting, self-hosting |
-| ✨ Vibe Coder | Ngoding sambil eksplorasi ide, banyak dibantu AI/Claude |
+| Networking | Routing, Switching, Troubleshooting, Wireshark |
+| Linux | Server administration, shell scripting, self-hosting |
+| Vibe Coder | Ngoding sambil eksplorasi ide, banyak dibantu AI/Claude |
 
 </div>
 
 <br>
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -68,7 +67,7 @@ zannoerr@network:~$ whoami
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=zannoerr&show_icons=true&theme=radical&hide_border=true&bg_color=0a001a&title_color=ff2ec4&icon_color=c724ff&text_color=ff9be8" width="48%"/>
@@ -79,11 +78,10 @@ zannoerr@network:~$ whoami
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zannoerr&layout=compact&theme=radical&hide_border=true&bg_color=0a001a&title_color=ff2ec4&text_color=ff9be8" width="45%"/>
 </div>
 
-> ⚠️ Ganti `zannoerr` di URL stats di atas dengan username GitHub kamu yang sebenarnya, ya, biar datanya muncul dengan benar.
 
 <br>
 
-## 🔗 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -99,6 +97,6 @@ zannoerr@network:~$ whoami
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c724ff,100:ff2ec4&height=100&section=footer" width="100%"/>
 
-**"Configuring networks by day, vibing with code by night."** 💜🩷
+**"Stop Expecting , Start Accepting"** 🩷
 
 </div>
