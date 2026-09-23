@@ -16,7 +16,7 @@
 
 <br>
 
-## 👋 Tentang Saya
+## Tentang Saya
 
 ```bash
 zannoerr@network:~$ whoami
@@ -102,6 +102,6 @@ zannoerr@network:~$ whoami
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c724ff,100:ff2ec4&height=100&section=footer" width="100%"/>
 
-**"Stop Expecting , Start Accepting"** 🩷
+**"Stop Expecting , Start Accepting"**
 
 </div>
