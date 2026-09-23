@@ -16,7 +16,7 @@
 
 <br>
 
-## 👋 Tentang Saya
+##  About Me
 
 ```bash
 fauzan@network:~$ whoami
@@ -76,14 +76,13 @@ fauzan@network:~$ whoami
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan&layout=compact&theme=radical&hide_border=true&bg_color=0a001a&title_color=ff2ec4&text_color=ff9be8" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zannoerr&layout=compact&theme=radical&hide_border=true&bg_color=0a001a&title_color=ff2ec4&text_color=ff9be8" width="45%"/>
 </div>
 
-> ⚠️ Ganti `fauzan` di URL stats di atas dengan username GitHub kamu yang sebenarnya, ya, biar datanya muncul dengan benar.
 
 <br>
 
-## 🔗 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -99,6 +98,6 @@ fauzan@network:~$ whoami
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c724ff,100:ff2ec4&height=100&section=footer" width="100%"/>
 
-**"Configuring networks by day, vibing with code by night."** 💜🩷
+**"Darah muda darahnya para remaja"** 🩷
 
 </div>
