@@ -91,9 +91,8 @@ zannoerr@network:~$ whoami
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-FF2EC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zannoerr)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-C724FF?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/-Instagram-FF6EC7?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Email-FF2EC4?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/-Instagram-FF6EC7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beezcoft?stkn=Njg2bG55dmpiODRw)
+[![Email](https://img.shields.io/badge/-Email-FF2EC4?style=for-the-badge&logo=gmail&logoColor=white)](fauzannoor124@gmail.com)
 
 </div>
 
