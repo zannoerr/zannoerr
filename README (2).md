@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="banner (1).svg" alt="Fauzan Banner" width="100%"/>
+<img src="banner (1).svg" alt="zannoerr Banner" width="100%"/>
 
 <!-- Kalau mau banner otomatis bergaya wave neon, ganti/tambahkan baris di atas dengan ini: -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2ec4,100:c724ff&height=250&section=header&text=FAUZAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20|%20Linux%20User%20|%20Vibe%20Coder&descAlignY=58&descSize=20" width="100%"/> -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2ec4,100:c724ff&height=250&section=header&text=zannoerr&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20|%20Linux%20User%20|%20Vibe%20Coder&descAlignY=58&descSize=20" width="100%"/> -->
 
 <a href="https://github.com/zannoerr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF2EC4&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Fauzan+%F0%9F%91%8B;Network+Engineer+%F0%9F%8C%90;Linux+Enthusiast+%F0%9F%90%A7;Vibe+Coder+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF2EC4&center=true&vCenter=true&width=600&lines=Halo%2C+saya+zannoerr+%F0%9F%91%8B;Network+Engineer+%F0%9F%8C%90;Linux+Enthusiast+%F0%9F%90%A7;Vibe+Coder+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=fauzan&color=ff2ec4&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/fauzan?color=c724ff&style=flat-square&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=zannoerr&color=ff2ec4&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/zannoerr?color=c724ff&style=flat-square&label=Followers)
 
 </div>
 
@@ -19,20 +19,19 @@
 ##  About Me
 
 ```bash
-fauzan@network:~$ whoami
-> Fauzan — Network Enthusiast & Linux Tinkerer
-> Suka utak-atik konfigurasi jaringan & server Linux
-> Ngoding santai mengikuti vibe (vibe coder 🌸)
-> Selalu penasaran gimana packet "ngobrol" dari satu device ke device lain
+zannoerr@network:~$ whoami
+> zannoerr — Network Enthusiast & Linux Tinkerer
+> konfigurasi jaringan & server Linux
+> vibe coder 
 ```
 
 <div align="center">
 
-| 🌐 Fokus | 💬 Detail |
+| Fokus | Detail |
 |:---:|:---|
-| 🖧 Networking | Routing, Switching, Troubleshooting, Wireshark |
-| 🐧 Linux | Server administration, shell scripting, self-hosting |
-| ✨ Vibe Coder | Ngoding sambil eksplorasi ide, banyak dibantu AI/Claude |
+| Networking | Routing, Switching, Troubleshooting, Wireshark |
+| Linux | Server administration, shell scripting, self-hosting |
+| Vibe Coder | Ngoding sambil eksplorasi ide, banyak dibantu AI/Claude |
 
 </div>
 
@@ -71,8 +70,8 @@ fauzan@network:~$ whoami
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fauzan&show_icons=true&theme=radical&hide_border=true&bg_color=0a001a&title_color=ff2ec4&icon_color=c724ff&text_color=ff9be8" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fauzan&theme=radical&hide_border=true&background=0a001a&ring=ff2ec4&fire=c724ff&currStreakLabel=ff9be8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zannoerr&show_icons=true&theme=radical&hide_border=true&bg_color=0a001a&title_color=ff2ec4&icon_color=c724ff&text_color=ff9be8" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zannoerr&theme=radical&hide_border=true&background=0a001a&ring=ff2ec4&fire=c724ff&currStreakLabel=ff9be8" width="48%"/>
 </div>
 
 <div align="center">
@@ -86,7 +85,7 @@ fauzan@network:~$ whoami
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-FF2EC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fauzan)
+[![GitHub](https://img.shields.io/badge/-GitHub-FF2EC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zannoerr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-C724FF?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/-Instagram-FF6EC7?style=for-the-badge&logo=instagram&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/-Email-FF2EC4?style=for-the-badge&logo=gmail&logoColor=white)](#)
