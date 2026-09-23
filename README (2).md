@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner(1).svg" alt="Fauzan Banner" width="100%"/>
+<img src="banner (1).svg" alt="Fauzan Banner" width="100%"/>
 
 <!-- Kalau mau banner otomatis bergaya wave neon, ganti/tambahkan baris di atas dengan ini: -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2ec4,100:c724ff&height=250&section=header&text=FAUZAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20|%20Linux%20User%20|%20Vibe%20Coder&descAlignY=58&descSize=20" width="100%"/> -->
